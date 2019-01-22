@@ -1,0 +1,32 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>A_20170321094421_0.jpg</filename>
+    <source>
+        <database>My Database</database>
+        <annotation>VOC2007</annotation>
+        <image>flickr</image>
+        <flickrid>NULL</flickrid>
+    </source>
+    <owner>
+        <flickrid>NULL</flickrid>
+        <name>Wzp</name>
+    </owner>
+    <size>
+        <width>1360</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>words</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>869</xmin>
+            <ymin>442</ymin>
+            <xmax>924</xmax>
+            <ymax>936</ymax>
+        </bndbox>
+    </object>
+</annotation>
